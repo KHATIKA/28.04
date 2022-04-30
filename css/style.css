@@ -1,0 +1,112 @@
+.mom {
+    width: 1170px;
+    height: 1220px;
+    margin: 0 auto;
+    
+}
+.baby {
+    background: #FBBA77;
+    width: 370px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.baby2 {
+    background: #41EAE3;
+    width: 370px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.baby3 {
+    background: #69529F;
+    width: 370px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.second-child {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bbaby {
+    background: #fff;
+    border-radius: 23px;
+    width: 130px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bbaby2 {
+    background: #41EAE3;
+    border-radius: 23px;
+    width: 130px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bbaby3 {
+    background: #69529F;
+    border-radius: 23px;
+    width: 130px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image1 {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image2 {
+    width: 100px;
+    height: 108px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image3 {
+    width: 100px;
+    height: 115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    width: 328px;
+    text-align: center;
+}
+.first-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text2 {
+    width: 710px;
+    text-align: center;
+}
+
+:hover:hover {
+    background: white;
+}
+
+
+
+
+
+

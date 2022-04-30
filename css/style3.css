@@ -1,0 +1,51 @@
+.header {
+    position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 20px;
+}
+.nav-li {
+    display: flex;
+}
+.web {
+    display: inline-block;
+}
+.web1 {
+    padding-right: 930px;
+}
+.cant {
+    display: flex;
+    width: 1170px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.class-1 {
+    width: 300px;
+    margin-right: 120px;
+}
+.class-2 {
+    width: 300px;
+}
+.img {
+    width: 250px;
+}
+
+.box {
+    border-radius: 38px;
+    background-color: #3D37F1;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.txt1 {
+    text-align: center;
+}
+.txt {
+    text-align: center;
+    font-size: 60px;
+}
