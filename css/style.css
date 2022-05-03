@@ -13,6 +13,15 @@
     align-items: center;
     flex-direction: column;
 }
+
+@media (max-width:1100px) {
+    .baby {
+        width: 300px;
+        height: 380px;
+        background-color: pink;
+        margin-bottom: 32px;
+    }
+}
 .baby2 {
     background: #41EAE3;
     width: 370px;
@@ -22,6 +31,14 @@
     align-items: center;
     flex-direction: column;
 }
+@media (max-width:1100px) {
+    .baby2 {
+        width: 300px;
+        height: 380px;
+        background-color: pink;
+        margin-bottom: 32px;
+    }
+}
 .baby3 {
     background: #69529F;
     width: 370px;
@@ -30,6 +47,14 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+@media (max-width:1100px) {
+    .baby3 {
+        width: 300px;
+        height: 380px;
+        background-color: pink;
+        margin-bottom: 32px;
+    }
 }
 .second-child {
     display: flex;
@@ -48,8 +73,7 @@
 .bbaby2 {
     background: #41EAE3;
     border-radius: 23px;
-    width: 130px;
-    height: 45px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
